@@ -1,6 +1,5 @@
 import { Palette, PaletteColor } from "@mui/material/styles";
 import { DeepPartial } from "../../types";
-//import theme from './default';
 
 
 declare module "@mui/material/styles" {
